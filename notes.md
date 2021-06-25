@@ -1,5 +1,5 @@
 ### Notes on the Board
-
+Studing Data Science 
 #### Setup Steps
 Go to github.com/adashofdata and follow the four steps in the README.md file.
 1. Download Anaconda
